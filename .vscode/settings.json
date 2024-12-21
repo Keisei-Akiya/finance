@@ -2,15 +2,18 @@
   "cSpell.words": [
     "darkgrid",
     "datareader",
+    "gspc",
     "histplot",
     "lineplot",
     "mathcal",
     "numpyro",
+    "pyenv",
     "pyplot",
     "scikit",
     "sigmaξ",
     "statespace",
     "topix",
-    "TOPX"
+    "TOPX",
+    "virtualenv"
   ]
 }
