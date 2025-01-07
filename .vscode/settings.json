@@ -1,19 +1,34 @@
 {
   "cSpell.words": [
+    "axhline",
+    "corrcoef",
+    "cumsum",
     "darkgrid",
     "datareader",
+    "expon",
+    "fontsize",
     "gspc",
     "histplot",
+    "iloc",
+    "invgamma",
     "lineplot",
+    "linestyle",
     "mathcal",
+    "ncols",
+    "nrows",
     "numpyro",
     "pyenv",
     "pyplot",
     "scikit",
     "sigmaξ",
+    "skyblue",
     "statespace",
+    "suptitle",
     "topix",
     "TOPX",
-    "virtualenv"
+    "virtualenv",
+    "xaxis",
+    "xlim",
+    "yticks"
   ]
 }
