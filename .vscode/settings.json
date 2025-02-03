@@ -1,6 +1,7 @@
 {
   "cSpell.words": [
     "axhline",
+    "BBRE",
     "cagr",
     "corrcoef",
     "cumsum",
@@ -11,11 +12,13 @@
     "fontsize",
     "gspc",
     "histplot",
+    "IFGL",
     "iloc",
     "invgamma",
     "lineplot",
     "linestyle",
     "mathcal",
+    "navs",
     "ncols",
     "nrows",
     "numpyro",
